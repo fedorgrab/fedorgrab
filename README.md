@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 Machine Learning Engineer | ML Systems & Infrastructure
 
